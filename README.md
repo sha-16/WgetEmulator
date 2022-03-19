@@ -6,6 +6,7 @@ Este es un programa que te permite descargar ficheros o binarios desde otro serv
 # Instalación
 git clone https://github.com/sha-16/WgetEmulator
 cd WgetEmulator/
+chmod +x wget-emulator.sh
 
 # Uso
 ./wget-emulator.sh <host> <port> <file>
